@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Csharp_ConstEnumNullableVar
 {
-    class Program
+    class ConstEnumNullable
     {
         enum Weapon { SWORD, STAFF, GUN, AXE, BOW };
 
